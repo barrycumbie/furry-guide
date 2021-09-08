@@ -1,27 +1,29 @@
-# BETA Story Card
+# 376/Charlie Story Card
 
 ## User Story (points = 👕 sm) 
 
-**As A** local _dev box_ user  
+**As A** avid _so much wow_ **web user **
 
-**I want** interact with doge
+**I want** interact with doge in a little bit better way (v2.0) 
 
-**So that** to see how much wow I has
+**So that** to see how much wow I has 
 
 ## Comments/Narrative :brain: :tornado: 
-- dev box = your computer|platform|device. Whatever you are coding from, using your app from. 
-- this is based on the "many wow" meme
-- have the user...interact with the meme
-- give them some arbitrary points. 
+- move code from _local dev box _put onto GitHub ==> GitHub Pages 
+- clean it up a little bit: html, css, script  
 
-## Resources
-- https://jqueryui.com/draggable/#visual-feedback
-- [zoooooom day, aug 31 - hurricane ida](https://una.zoom.us/rec/share/hdLvEpmjxIi5Ffv4VOp7pMumW8c473fVKLWxyJW_mGz4X83P8M7Gf00kM3cOXCQ.RtMy181jXMG1RScW?startTime=1630436523000)
-- [Cumbie's Code: ghyt repo](https://github.com/barrycumbie/beta-376)
-- [Cumbie's CodePen spin up](https://codepen.io/barrycumbie/pen/qBjNmeg)
+# Resources
+- Here is my github REPO: https://github.com/barrycumbie/furry-guide <== put this in submission/assigment comments,
+- Here is my github PAGES: https://barrycumbie.github.io/furry-guide/ <== you will submit this one...the live page link
+- w3cSchools stuff
+  - https://www.w3schools.com/bootstrap4/bootstrap_navbar.asp
+  - https://www.w3schools.com/jquery/css_position.asp
+- jQueryUI Draggable: https://jqueryui.com/draggable/#constrain-movement
 
-## Acceptance Criteria 
-
-- [x] go to a local file 
-- [x] interact with a meme (input)   
-- [ ] some result of "wow" (output) 
+# Minimum Acceptance Criteria 
+- [x] submit a single link to an active page (github page
+- [x] improve HTML
+- [x] improve CSS
+- [x] improve JS 
+- [ ] tested & working 
+  
